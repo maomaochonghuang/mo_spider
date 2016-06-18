@@ -1,0 +1,5 @@
+
+
+1. init task_info sql 
+
+	insert into test.task_info (name,title,url,type,total,finish_num,suc_num,speed,init_num,status,create_time,last_update_tme,start_time,finish_time) values('test1','test_title','http://v.youku.com/v_show/id_XMTU2MDA0ODE2OA==.html',1,10,0,0,1,0,0,now(),now(),now(),now());

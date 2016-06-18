@@ -1,0 +1,7 @@
+
+install :
+	pip install json-rpc
+	detail :https://github.com/pavlov99/json-rpc
+
+	pip install threading
+
