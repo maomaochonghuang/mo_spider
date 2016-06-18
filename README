@@ -1,7 +1,26 @@
 
-install :
+the plan of development :
+Step 1: done list:      
+		the base framework ,
+		the main tools classes. 
+		the communiction between the client,center and master 
+
+Step 2: done list:
+		simple crawl way 
+
+	doing list:
+		webkit crawl way
+	
+	todo list:
+		vote of weibo.com 
+
+
+need to install application list:
 	pip install json-rpc
-	detail :https://github.com/pavlov99/json-rpc
+		detail :https://github.com/pavlov99/json-rpc
 
 	pip install threading
+
+
+
 
